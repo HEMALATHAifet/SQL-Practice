@@ -305,4 +305,3 @@ OFFSET 5 ROWS FETCH NEXT 5 ROWS ONLY;
 Shows rows 6 to 10.
 
 ---
-
