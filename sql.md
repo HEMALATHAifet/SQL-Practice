@@ -1,4 +1,4 @@
-# 🔹 SQL Commands – Full Guide
+#  SQL Commands – Full Guide
 
 ---
 
@@ -306,4 +306,3 @@ Shows rows 6 to 10.
 
 ---
 
-Do you want me to **compile this into a neat PDF/cheat-sheet** (one page) so you can use it while practicing in SQL\*Plus?
